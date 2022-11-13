@@ -1,0 +1,17 @@
+{
+  "name": "rooms",
+  "version": "1.0.0",
+  "description": "chat room",
+  "main": "index.js",
+  "scripts": {
+    "devstart": "nodemon server.js"
+  },
+  "author": "Agrim",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
